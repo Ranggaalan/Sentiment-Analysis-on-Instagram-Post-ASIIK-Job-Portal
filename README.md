@@ -9,7 +9,7 @@ This project analyzes public sentiment towards an Instagram post from **Dinas Pe
 - **Source:** Instagram comments from the ASIIK job portal post. (Link: https://www.instagram.com/reel/CfIiZbejUI3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - **Features:**
   - **Text:** User comments.
-  - **Sentiment Labels:** Positive, Negative, Neutral.
+  - **Comment
 
 ## 🔍 Methodology
 ### 📌 Data Collection
