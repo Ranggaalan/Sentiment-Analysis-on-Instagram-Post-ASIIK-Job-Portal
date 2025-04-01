@@ -6,7 +6,7 @@ This project analyzes public sentiment towards an Instagram post from **Dinas Pe
 
 
 ## 📝 Dataset
-- **Source:** Instagram comments from the ASIIK job portal post.
+- **Source:** Instagram comments from the ASIIK job portal post. (Link: https://www.instagram.com/reel/CfIiZbejUI3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - **Features:**
   - **Text:** User comments.
   - **Sentiment Labels:** Positive, Negative, Neutral.
@@ -48,7 +48,7 @@ Several machine learning models were trained and evaluated:
 ![image](https://github.com/user-attachments/assets/95fef3c5-076b-4039-84ab-030eb738240c)
 
 ### Sentimen Results
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8048aa4a-813d-4ab7-8ea6-880e54e86e28)
 
 
 ### 📌 Sentiment Distribution
