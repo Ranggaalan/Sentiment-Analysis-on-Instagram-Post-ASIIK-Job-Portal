@@ -54,9 +54,9 @@ Several machine learning models were trained and evaluated:
 ### 📌 Sentiment Distribution
 | Sentiment | Percentage |
 |-----------|------------|
-| Negative  | 51%        |
-| Neutral   | 8%         |
-| Positive  | 32%        |
+| Negative  | 22%        |
+| Neutral   | 40%        |
+| Positive  | 37%        |
 
 ### 📌 Best Performing Models
 | Model                | Accuracy |
